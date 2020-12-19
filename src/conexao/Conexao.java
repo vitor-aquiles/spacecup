@@ -17,7 +17,7 @@ public class Conexao {
     private static Conexao conexao;
     private static String url = "jdbc:oracle:thin:@localhost:1521:vitor2db";
     private static String login = "vitor_aquiles";
-    private static String senha = "306514";
+    private static String senha = "";
     
     private Conexao() {        
     }
